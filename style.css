@@ -1,0 +1,56 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	background: url('https://wallpapercrafter.com/sizes/2560x1440/9823-leaves-green-dark-plant-4k.jpg')
+		no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.poetsen-one-regular {
+	font-family: 'Poetsen One', sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h1 {
+	color: white;
+}
+
+.top-part {
+	display: flex;
+	height: 60%;
+	justify-content: center;
+	align-items: center;
+}
+
+.bottom-part {
+	display: flex;
+	justify-content: center;
+}
+
+.form-container {
+	display: flex;
+	height: 100%;
+	color: white;
+	justify-content: center;
+	align-items: center;
+}
+
+.form-text {
+	color: rgb(168, 166, 166);
+}
+
+.upper-text {
+	text-align: center;
+}
+
+form {
+	padding: 3rem;
+	width: 28rem;
+	background-color: rgba(59, 59, 59, 0.849);
+	border-radius: 30px;
+}
